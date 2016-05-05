@@ -1,4 +1,6 @@
-# rabbitmq消息队列的python例子，具体请查看(http://www.rabbitmq.com/tutorials/tutorial-one-python.html)[官网手册]
+# rabbitmq消息队列的python例子
+
+[官网手册](http://www.rabbitmq.com/tutorials/tutorial-one-python.html)
 
 ## 共分成6部分：
 
